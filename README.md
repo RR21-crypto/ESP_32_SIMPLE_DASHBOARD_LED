@@ -2,7 +2,7 @@
 
 A simple yet elegant IoT dashboard to monitor temperature and humidity, and control an LED remotely using an ESP32, PHP, and a MySQL database. This project is designed to be a clear and straightforward starting point for IoT enthusiasts.
 
-![Dashboard Screenshot](path/to/your/screenshot.png)
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/a13518e9-cdfc-4f3e-bd35-31576581c113))
 *(Suggestion: Take a screenshot of your beautiful dashboard and replace the path above!)*
 
 ## ✨ Features
