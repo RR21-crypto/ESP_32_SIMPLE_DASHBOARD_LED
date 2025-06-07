@@ -4,7 +4,7 @@ A simple yet elegant IoT dashboard to monitor temperature and humidity, and cont
 
 ![image](https://github.com/user-attachments/assets/042ca866-6413-48c0-9958-278348ac4f22)
 
-
+link demo : https://youtube.com/shorts/65e8nY5GSzo?si=3L2T2AeS8JtHBmSm
 
 ## ✨ Features
 
